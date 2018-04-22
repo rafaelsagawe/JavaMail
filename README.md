@@ -7,7 +7,7 @@ https://www.devmedia.com.br/enviando-email-com-javamail-utilizando-gmail/18034?u
 
 ==//==//==//==//==//==//==//==//==//==//
 
-#VM de desenvolvimento
+# VM de desenvolvimento
 $ uname -a
 Linux vm-dev 4.4.0-119-generic #143-Ubuntu SMP Mon Apr 2 16:08:24 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
 
